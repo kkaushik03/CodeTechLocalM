@@ -100,7 +100,7 @@ Also provide brief feedback for each section.
 
 ## 🤝 Team
 
-- **Khushi Kaushik** – Project Manager, AI/ML Integration  
+- **Khushi Kaushik** – Project Manager, AI/ML Integration, Backend 
 
 ---
 
