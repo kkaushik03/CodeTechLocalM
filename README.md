@@ -101,8 +101,6 @@ Also provide brief feedback for each section.
 ## 🤝 Team
 
 - **Khushi Kaushik** – Project Manager, AI/ML Integration  
-- **Alyssa Amancio** – File Systems, Architecture  
-- **Trang Ngo** – LLM Prompt Engineering, Report Generation
 
 ---
 
@@ -115,12 +113,3 @@ Also provide brief feedback for each section.
 
 ---
 
-## 📃 License
-This project is for educational/demo purposes only.
-
----
-
-## 💬 Feedback
-Have suggestions? Submit them to `/feedback` or open an issue!
-
-Happy grading! 🧠💻
