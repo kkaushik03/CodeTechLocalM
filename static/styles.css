@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+form {
+    margin: 20px 0;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="file"] {
+    margin: 10px 0;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#reports-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#reports-list li {
+    background: #eaeaea;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 3px;
+}

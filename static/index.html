@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Flask CRUD with JWT</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Flask CRUD Application</h1>
+
+        <div id="login-section">
+            <h2>Login</h2>
+            <form id="login-form">
+                <label for="username">Username:</label>
+                <input type="text" id="username" required>
+                <br>
+                <label for="password">Password:</label>
+                <input type="password" id="password" required>
+                <br>
+                <button type="submit">Login</button>
+            </form>
+            <p id="login-message"></p>
+        </div>
+
+        <div id="upload-section" style="display: none;">
+            <h2>Upload Python File</h2>
+            <form id="upload-form">
+                <input type="file" id="file-input" accept=".py" required>
+                <button type="submit">Upload</button>
+            </form>
+            <p id="upload-message"></p>
+        </div>
+
+        <div id="reports-section" style="display: none;">
+            <h2>Reports</h2>
+            <button id="refresh-reports">Refresh Reports</button>
+            <ul id="reports-list"></ul>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
